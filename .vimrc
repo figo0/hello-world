@@ -61,7 +61,7 @@ nnoremap <silent> <F2> :TagbarToggle<CR>
 
 Plugin 'scrooloose/nerdtree'
 let NERDTreeWinPos='right'
-let NERDTreeWinSize=20
+let NERDTreeWinSize=21
 let g:NERDTreeDirArrowExpandable = '>'
 let g:NERDTreeDirArrowCollapsible = 'v'
 
